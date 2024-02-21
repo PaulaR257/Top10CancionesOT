@@ -50,7 +50,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.top10cancionesot.model.CancionesRepository
+import com.example.top10cancionesot.datasource.CancionesRepository
 import com.example.top10cancionesot.ui.theme.Top10CancionesOTTheme
 
 

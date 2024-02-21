@@ -1,6 +1,7 @@
-package com.example.top10cancionesot.model
+package com.example.top10cancionesot.datasource
 
 import com.example.top10cancionesot.R
+import com.example.top10cancionesot.model.Cancion
 
 class CancionesRepository {
     fun getCanciones(): List<Cancion> {
