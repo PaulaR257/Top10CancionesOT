@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Top10CancionesOT</string>
+    <string name="titulo">Mi Top 10 de OT</string>
+    <string name="cancion1">Mía</string>
+    <string name="descripcion1">Actuación individual donde se canta una canción de Belén Aguilera de 2020. En esta ocasión será interpretada por Chiara Oliver</string>
+    <string name="cancion2">The climb</string>
+    <string name="descripcion2">Actuación individual donde se canta una canción de Miley Cyrus de 2009. En esta ocasión será interpretada por Chiara Oliver</string>
+    <string name="cancion3">You oughta know</string>
+    <string name="descripcion3">Actuación individual donde se canta una canción de Alanis Morissette de 1995. En esta ocasión será interpretada por Chiara Oliver</string>
+    <string name="cancion4">Blue lights</string>
+    <string name="descripcion4">Actuación individual donde se canta una canción de Jorja Smith de 2018. En esta ocasión será interpretada por Violeta Hódar</string>
+    <string name="cancion5">Es por ti</string>
+    <string name="descripcion5">Actuación individual donde se canta una canción de Juanes. En esta ocasión será interpretada por Violeta Hódar</string>
+    <string name="cancion6">Slomo</string>
+    <string name="descripcion6">Actuación individual donde se canta una canción de Chanel Terrero de 2023 . En esta ocasión será interpretada por Ruslana Panchyshyna</string>
+    <string name="cancion7">I kissed a girl</string>
+    <string name="descripcion7">En esta actuación el dúo formado por Chiara Oliver y Violeta Hódar interpretarán una canción del año 2008 de Katy Perry</string>
+    <string name="cancion8">Escriurem</string>
+    <string name="descripcion8">En esta actuación el dúo formado por Chiara Oliver y Martin Urrutia interpretarán una versión de Miki Núñez con Izaro que es en catalán y euskera</string>
+    <string name="cancion9">Walk like an egyptian</string>
+    <string name="descripcion9">En esta actuación el trío formado por Bea, Chiara y Ruslana interpretará una canción del año 1986 del grupo The Bangles</string>
+    <string name="cancion10">Make you feel my love</string>
+    <string name="descripcion10">Actuación individual donde se canta una canción de 2008 en la versión de Adele. En esta ocasión será interpretada por Beatriz Fernández: </string>
+    <string name="expand_button_content_description">Información sobre la canción.</string>
+    <string name="info">Información</string>
+
+</resources>
